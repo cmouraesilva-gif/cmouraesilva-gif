@@ -52,6 +52,5 @@ Sou profissional com atuação focada em **geoprocessamento, urbanismo, análise
 
 Caso queira trocar ideias sobre geoprocessamento, engenharia agrícola, automação ou desenvolvimento mobile, fique à vontade para entrar em contato:
 
-* **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-* **E-mail:** seu.email@exemplo.com
+* **GitHub:** [github.com/cmouraesilva-gif](https://github.com/cmouraesilva-gif)
+* **E-mail:** cmouraesilva@gmail.com
